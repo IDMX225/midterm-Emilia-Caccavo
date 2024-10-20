@@ -7,7 +7,6 @@
         font-family: Verdana;
         background-color: #e1c86d;
         color: #000000;
-        margin: 0;
         font-size: 10x;
     }
     
@@ -31,12 +30,12 @@
         justify-content: flex-end;
         align-items: center;
         background-color: #5db8e0;
-        padding: 2px;
+        padding: 1px;
         border-radius: 1px;
     }
 
     #projects{
-        margin: 5px;
+        margin: 2px;
     }
 
     .description {
@@ -46,7 +45,7 @@
     }
 
     .img {
-        width: 90%;
+        width: 25%;
         height: auto;
     }
 /* Reviews */
